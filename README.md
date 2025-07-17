@@ -1,5 +1,8 @@
 # ieuk-task-2025
 - Deborah Ama submission
+- I had an issue with my previous repo so this was made last minute with my orginal code
+- <img width="606" height="114" alt="image" src="https://github.com/user-attachments/assets/d1e376b8-45d0-4470-acd6-9aa1b6c2a857" />
+
 
 # 📊 Traffic Analysis Report: Bot Activity and Mitigation Recommendations
 
