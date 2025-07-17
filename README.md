@@ -1,6 +1,10 @@
 # ieuk-task-2025
 - Deborah Ama submission
 - I had an issue with my previous repo so this was made last minute with my orginal code
+- see below
+- 
+- <img width="244" height="472" alt="image" src="https://github.com/user-attachments/assets/21b8592e-ccfe-47cd-bf69-329b83dfc7c0" />
+
 - <img width="606" height="114" alt="image" src="https://github.com/user-attachments/assets/d1e376b8-45d0-4470-acd6-9aa1b6c2a857" />
 
 
